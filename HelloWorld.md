@@ -1,6 +1,6 @@
 # datasciencecoursera
 Demo Repo for Coursera
-echo "# datasciencecoursera" >> README.md
+echo "## This is markdown file" >> README.md
 git init
 git add HelloWorld.md
 git commit -m "first commit"
